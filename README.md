@@ -24,6 +24,6 @@ Learning SCSS concepts by practising each of them.
 
 If you would like to contribute please raise the PR.
 
-# Reach Me :woman:
+# Reach Me :man:
 
 You can email me at email.ashishgoyal@gmail.com or reach me on twitter @ashishgoyl
